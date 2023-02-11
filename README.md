@@ -13,11 +13,7 @@
 
 </div>
 <hr/>
-<div align="center">
-  <h2>Status: </h2>
-  <a href="https://github.com/PontesDiogo">
- 
-</div>
+
 
 <div style="display: inline_block">
   <h2 align="center">Most used languages: </h2>
