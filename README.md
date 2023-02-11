@@ -1,7 +1,48 @@
-### Hi there I´m Diogo👋
+###
+<div align="center">
+<h2>Welcome to my profile ✨</h2>
+    <a> Student </a>
+    <br/>
+    <a> • Front-end developer 🪐</a>
+ <br/>
+    <a> • Systems development (3/3) 👨‍🎓</a>
+ <br/>
+    <a> • Artist / Designer 🌸</a>
+ <br/>
+    <h1> 莲 </h1>
 
+</div>
+<hr/>
+<div align="center">
+  <h2>Status: </h2>
+  <a href="https://github.com/L00utop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L00utop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-
-- 🔭 I’m currently studying on Fatec Itu - Dom Amaury Casmurro
-- 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking for help with Kodlin
+<div style="display: inline_block">
+  <h2 align="center">Most used languages: </h2>
+  <div align="center">
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  </div>
+</div>
+<div style="display: inline_block">
+  <h2 align="center">My design/art tools: </h2>
+  <div align="center">
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+  </div>
+</div>
+<br/>
+<div align="center">
+<h2>Social media: </h2>
+    <a href="https://www.instagram.com/l00ut"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+    <a href="https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
+    <a href="https://steamcommunity.com/id/L00ut/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+   
+    
+</div>
+<hr/>   
