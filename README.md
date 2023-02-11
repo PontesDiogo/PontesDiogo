@@ -9,14 +9,14 @@
  <br/>
     <a> • Analysis and Systems development (1/3)</a>
  <br/>
-    <h1> 莲 </h1>
+   
 
 </div>
 <hr/>
 <div align="center">
   <h2>Status: </h2>
   <a href="https://github.com/PontesDiogo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L00utop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
 </div>
 
 <div style="display: inline_block">
