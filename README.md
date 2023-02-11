@@ -3,11 +3,11 @@
 <h2>Welcome to my profile ✨</h2>
     <a> Student </a>
     <br/>
-    <a> • Front-end developer 🪐</a>
+   
  <br/>
     <a> • Systems development (3/3) 👨‍🎓</a>
  <br/>
-    <a> • Artist / Designer 🌸</a>
+    <a> • Analysis and Systems development (1/3)</a>
  <br/>
     <h1> 莲 </h1>
 
@@ -15,7 +15,7 @@
 <hr/>
 <div align="center">
   <h2>Status: </h2>
-  <a href="https://github.com/L00utop">
+  <a href="https://github.com/PontesDiogo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L00utop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -39,9 +39,9 @@
 <br/>
 <div align="center">
 <h2>Social media: </h2>
-    <a href="https://www.instagram.com/l00ut"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-    <a href="https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
-    <a href="https://steamcommunity.com/id/L00ut/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+    <a href="https://www.instagram.com/diogoo.gp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+    <a href="https://open.spotify.com/user/31pdza5tx4ilx5v2obmytuv6yzim?si=28a1f505d69d4136"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
+    <a href="https://steamcommunity.com/id/_deogoo/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
    
     
 </div>
