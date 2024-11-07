@@ -3,7 +3,7 @@
 <h2>Welcome to my profile ✨</h2>
     <a> Student </a>
     <br/>
-[![Typing SVG]( https://readme-typing-svg.demolab.com/demo/?color=8A29B3&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&lines=Typescript+Full+Stack+Developer;Ol%C3%A1%2C+eu+sou+o+Diogo%2C+eu+sou;QA+Analyst)](https://git.io/typing-svg)
+
    
    
  <br/>
