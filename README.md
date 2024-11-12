@@ -1,8 +1,11 @@
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A29B3&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=435&lines=Typescript+Full+Stack+Developer;Ol%C3%A1%2C+eu+sou+o+Diogo%2C+eu+sou;QA+Analyst;Bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
+[![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pontesdiogo&show_icons=true&theme=radical)](https://github.com/PontesDiogo/github-readme-stats)
+
+
  <br/>
-    <a> • Análise e Desenvolvimento de Sistemas - Fatec Itu - 4°Semestre</a>
+    <a > • Análise e Desenvolvimento de Sistemas - Fatec Itu - 4°Semestre</a>
  <br/>
    
 
