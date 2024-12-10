@@ -40,9 +40,10 @@
 <br/>
 <div align="center">
 <h2>Social media: </h2>
-    <a href="https://www.instagram.com/byy_doggo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+    <a href="https://www.instagram.com/byy_doggo/profilecard/?igsh=bm11amR6djM0NjYz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
     <a href="https://open.spotify.com/user/31pdza5tx4ilx5v2obmytuv6yzim?si=28a1f505d69d4136"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
     <a href="https://steamcommunity.com/id/_deogoo/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  
    
     
 </div>
