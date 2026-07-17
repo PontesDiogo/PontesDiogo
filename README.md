@@ -1,49 +1,103 @@
-###
+# Olá, eu sou o Diogo Garcia 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A46DCF&width=435&lines=Welcome+to+my+profile!;My+name+is+Diogo;I%C2%B4m+a+TypeScript+FullStack+Dev)](https://git.io/typing-svg)
+### Analista de Sistemas e Desenvolvedor Web
 
+Transformo problemas reais em sistemas que fazem sentido.
 
+Minha atuação combina análise de processos, regras de negócio e desenvolvimento de aplicações web. Gosto de entender como uma operação funciona, identificar gargalos e transformar essas necessidades em fluxos, interfaces e soluções digitais.
 
+Atualmente trabalho com processos administrativos, estoque, compras, logística, faturamento e apoio ao RH, experiência que influencia diretamente a forma como penso sistemas.
 
- <br/>
-    <a > • Análise e Desenvolvimento de Sistemas - Fatec Itu</a>
- <br/>
-   
+---
 
-</div>
-<hr/>
+## Projetos em destaque
 
+### 🐾 SOS Bichos
 
-<div style="display: inline_block">
-  <h2 align="center">Linguagens mais usadas: </h2>
-  <div align="center">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg"/>
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg"/>
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg"/>
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg"/>
-      
-  </div>
-</div>
-<div style="display: inline_block">
-  <h2 align="center">Ferramentas de Design </h2>
-  <div align="center">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-  </div>
-</div>
-<br/>
-<div align="center">
-<h2>Social media: </h2>
-    <a href="https://www.instagram.com/odgz_/profilecard/?igsh=bm11amR6djM0NjYz](https://www.instagram.com/odgz_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-    <a href="https://open.spotify.com/user/31pdza5tx4ilx5v2obmytuv6yzim?si=28a1f505d69d4136"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
-    <a href="https://steamcommunity.com/id/_deogoo/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-  
-   
-    
-</div>
-<hr/>   
+Plataforma web para registro e acompanhamento de ocorrências envolvendo animais.
+
+O sistema reúne autenticação, envio de imagens, localização por mapa, acompanhamento de status, área do usuário e painel administrativo.
+
+**Tecnologias:** React, TypeScript, Vite, Supabase, Leaflet e Netlify.
+
+[Ver aplicação](https://sosbichos.netlify.app/)  
+[Conhecer o projeto no portfólio](https://pontesdiogo.github.io/portfolio-diogo/#projetos)
+
+---
+
+### 🪵 Gibi Carpintaria
+
+Site institucional com painel administrativo para publicação e gerenciamento de projetos da empresa.
+
+A aplicação permite criar, editar, destacar, publicar e remover conteúdos exibidos no site público.
+
+**Tecnologias:** React, TypeScript, Supabase e Netlify.
+
+[Visitar o site](https://gibicarpintaria.com/)
+
+---
+
+### 🚚 Controle de Entregas
+
+Solução concebida para controlar entregas parciais de materiais por obra.
+
+Atuei no levantamento do problema, definição dos fluxos, regras de negócio e documentação da solução posteriormente implementada no ERP interno da empresa.
+
+---
+
+### 🗺️ Visualizador do Algoritmo de Dijkstra
+
+Aplicação interativa desenvolvida para visualizar o funcionamento do algoritmo de menor caminho em uma grade ponderada.
+
+[Ver repositório](https://github.com/PontesDiogo/Theory-of-graphs)
+
+---
+
+## Tecnologias
+
+### Uso com mais frequência
+
+- React
+- TypeScript
+- JavaScript
+- Supabase
+- Git
+- HTML
+- CSS
+
+### Experiência em projetos e estudos
+
+- Java
+- Spring Boot
+- Python
+- Angular
+- SQL
+- APIs REST
+
+---
+
+## Formação
+
+**Tecnologia em Análise e Desenvolvimento de Sistemas**  
+Fatec Itu — formação concluída em 2026.
+
+**Ensino Técnico Integrado ao Médio**  
+Etec de Tietê.
+
+---
+
+## Atualmente estudando
+
+- HTTP e APIs REST
+- Arquitetura de aplicações
+- React e organização de projetos
+- Testes e documentação
+- Desenvolvimento de soluções orientadas a regras de negócio
+
+---
+
+## Contato
+
+[Portfólio](https://pontesdiogo.github.io/portfolio-diogo/)  
+[LinkedIn](https://www.linkedin.com/in/diogogarciapontes/)  
+[E-mail](mailto:diogogpontes@gmail.com)
