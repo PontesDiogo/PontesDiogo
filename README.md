@@ -20,7 +20,7 @@ O sistema reúne autenticação, envio de imagens, localização por mapa, acomp
 
 **Tecnologias:** React, TypeScript, Vite, Supabase, Leaflet e Netlify.
 
-[Ver aplicação](https://sosbichos.netlify.app/)  
+[Ver aplicação](https://sos-bichos.netlify.app/)  
 [Conhecer o projeto no portfólio](https://pontesdiogo.github.io/portfolio-diogo/#projetos)
 
 ---
